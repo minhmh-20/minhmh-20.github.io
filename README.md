@@ -37,14 +37,14 @@
 <li>Pho 🇻🇳</li>
 <li>Bun Cha 🇻🇳</li>
 <li>トンカツ 🇯🇵</li>
-<li>団子 🇯🇵</li>
+<li style="margin-bottom: 30px">団子 🇯🇵</li>
 <img src="img/pho-vietnam.jpeg" width="230" height="145" style="animation: slide 10s linear infinite; margin-right: 100px">
 <img src="img/bun-cha-vietnam.jpeg" width="230" height="150" style="animation: slide 10s linear infinite; margin-right: 100px">
 <img src="img/tonkatsu.jpeg" width="230" height="150" style="animation: slide 10s linear infinite; margin-right: 100px">
 <img src="img/dango.webp" width="230" height="150" style="animation: slide 10s linear infinite;">
 </ul>
 
-<li>スポッツ</li>
+<li style="margin-top: 20px">スポッツ</li>
 <ul>
 <li>チェス ♟️</li>
 <li>バドミントン 🏸</li>
